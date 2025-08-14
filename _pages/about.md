@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Placeholder"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Placeholder
+I am a scientist and engineer in Southern California. I study microscale *in situ* sensors, which means I try to build very small tools that can warn us about problems in our bodies or in the environment. I have been working in research labs and nanofabrication cleanrooms for 20 years, and during that time I have worked on everything from nanoparticle-coated optical ring resonators to flexible, plastic, brain probes. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus libero non condimentum lacinia. Vivamus pharetra mollis odio eget semper. Morbi non lobortis velit. Suspendisse luctus arcu magna, tempus congue nibh pellentesque vel. Vivamus purus velit, feugiat ultricies auctor quis, viverra a nulla. Quisque cursus justo nec ante venenatis bibendum. Sed rhoncus sit amet magna vel eleifend. Phasellus tincidunt lacus ipsum, ac venenatis metus commodo et. Duis pretium lobortis dignissim. Praesent posuere, diam accumsan elementum feugiat, purus massa vehicula justo, condimentum tristique quam ligula vel urna. Mauris scelerisque dui vel nulla placerat, vitae semper enim commodo. Praesent arcu purus, laoreet sagittis justo ut, dictum bibendum neque.
+I currently manage the [Polymer Implantable Electrode Foundry](http://piefoundry.usc.edu) at the University of Southern California. 
 
 
 <!--
