@@ -1,12 +1,18 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Placeholder"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+Placeholder
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus libero non condimentum lacinia. Vivamus pharetra mollis odio eget semper. Morbi non lobortis velit. Suspendisse luctus arcu magna, tempus congue nibh pellentesque vel. Vivamus purus velit, feugiat ultricies auctor quis, viverra a nulla. Quisque cursus justo nec ante venenatis bibendum. Sed rhoncus sit amet magna vel eleifend. Phasellus tincidunt lacus ipsum, ac venenatis metus commodo et. Duis pretium lobortis dignissim. Praesent posuere, diam accumsan elementum feugiat, purus massa vehicula justo, condimentum tristique quam ligula vel urna. Mauris scelerisque dui vel nulla placerat, vitae semper enim commodo. Praesent arcu purus, laoreet sagittis justo ut, dictum bibendum neque.
+
+
+<!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
@@ -54,3 +60,4 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
