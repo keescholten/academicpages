@@ -1,7 +1,7 @@
 ---
-permalink: /photos/
+layout: archive
 title: "Photos"
-author_profile: true
+permalink: /photos/
 redirect_from: 
   - /photos/
   - /photo.html
