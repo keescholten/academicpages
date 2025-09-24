@@ -243,3 +243,9 @@
     }
   }
 }
+
+
+.carousel { overflow: hidden; padding-bottom: 4rem; }
+.carousel-caption { top: 90%; color: #000000; /* Black color */}
+.carousel-inner { overflow: visible; }
+.carousel-control-next, .carousel-control-prev, .carousel-indicators { bottom: 4rem; }
