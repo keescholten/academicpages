@@ -17,31 +17,31 @@ I currently manage the [Polymer Implantable Electrode Foundry](http://piefoundry
 <div id="photoCarousel" class="carousel slide" data-bs-ride="carousel"  style="margin:auto;">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/academicpages/images/photo1.jpg" class="d-block w-100 object-fit-scale" alt="Photo 1"   style="height:400px;">
+      <img src="{{ base_path }}/images/photo1.jpg" class="d-block w-100 object-fit-scale" alt="Photo 1"   style="height:400px;">
       <div class="carousel-caption d-none d-md-block">
         <h3>Polymer-based, microelectrode brain implant</h3>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="/academicpages/images/photo2.jpg" class="d-block w-100 object-fit-scale" alt="Photo 2"   style="height:400px;">
+      <img src="{{ base_path }}/images/photo2.jpg" class="d-block w-100 object-fit-scale" alt="Photo 2"   style="height:400px;">
       <div class="carousel-caption d-none d-md-block">
         <h3>Tin-oxide nanowire chemical sensor</h3>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="/academicpages/images/photo3.jpg" class="d-block w-100 object-fit-scale" alt="Photo 3"   style="height:400px;">
+      <img src="{{ base_path }}/images/photo3.jpg" class="d-block w-100 object-fit-scale" alt="Photo 3"   style="height:400px;">
       <div class="carousel-caption d-none d-md-block">
         <h3>Polymer implantable electrodes for variety of applications</h3>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="/academicpages/images/photo4.jpg" class="d-block w-100 object-fit-scale" alt="Photo 4"   style="height:400px;">
+      <img src="{{ base_path }}/images/photo4.jpg" class="d-block w-100 object-fit-scale" alt="Photo 4"   style="height:400px;">
       <div class="carousel-caption d-none d-md-block">
         <h3>Micro-scale optofluidic ring resonator</h3>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="/academicpages/images/photo5.jpg" class="d-block w-100 object-fit-scale" alt="Photo 5"   style="height:400px;">
+      <img src="{{ base_path }}/images/photo5.jpg" class="d-block w-100 object-fit-scale" alt="Photo 5"   style="height:400px;">
       <div class="carousel-caption d-none d-md-block">
         <h3>Peripheral nerve cuff for extra fasicular stimulation</h3>
       </div>
